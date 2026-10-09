@@ -1,6 +1,6 @@
 # Gustavo Aguilar
 
-**Desenvolvedor Full Stack** | TypeScript · Node.js · React · Next.js · PostgreSQL · SQL Server · AWS · Azure
+**Desenvolvedor Full Stack** | TypeScript · Node.js · React · Next.js · PostgreSQL · SQL Server · AWS · Azure · Linux
 
 Desenvolvo sistemas web de ponta a ponta, da modelagem do banco de dados ao deploy em produção.
 
@@ -13,7 +13,7 @@ Atuo como desenvolvedor Full Stack no ciclo completo de um produto: levantamento
 - Desenvolvimento de APIs REST e integração entre sistemas, via API e bancos de dados externos
 - Bancos de dados relacionais: PostgreSQL e SQL Server
 - Ambientes em nuvem: AWS e Azure
-- Deploy, CI/CD, rotinas de backup e segurança de servidores
+- Operação de servidores Linux: deploy, CI/CD, rotinas de backup e segurança (hardening)
 - Segurança e LGPD: autenticação, controle de acesso granular e criptografia de dados
 
 ---
