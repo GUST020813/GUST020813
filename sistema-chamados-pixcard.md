@@ -1,23 +1,10 @@
-<h1 align="center">🎫 Sistema de Chamados — PixCard</h1>
+# Sistema de Chamados — PixCard
 
-<p align="center">
-  Plataforma web de abertura, triagem e acompanhamento de chamados, com SLA, chat em tempo real e controle de acesso por perfil.<br/>
-  Projetada e desenvolvida por <strong>Gustavo Aguilar</strong>, do levantamento de requisitos ao deploy em produção.
-</p>
+Plataforma web de abertura, triagem e acompanhamento de chamados, com SLA, chat em tempo real e controle de acesso por perfil. Projetada e desenvolvida por **Gustavo Aguilar**, do levantamento de requisitos ao deploy em produção.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
+**Tecnologias:** TypeScript · Next.js 14 · React · Node.js · Express · Prisma · PostgreSQL · Socket.IO · GitHub Actions
 
-> **Sobre este repositório:** o sistema é proprietário da PixCard. Aqui eu apresento o problema, a arquitetura e as decisões técnicas do projeto. Não há código-fonte, dados, credenciais nem informações internas da empresa.
+> **Sobre este documento:** o sistema é proprietário da PixCard. Aqui eu apresento o problema, a arquitetura e as decisões técnicas do projeto. Não há código-fonte, dados, credenciais nem informações internas da empresa.
 
 ---
 
